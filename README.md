@@ -1,0 +1,1 @@
+This is the interpreter for another language I call Illuvatar being influenced from Tolkien mythology where God was called Illuvatar. it's still at the beginning so I decided to make small steps and only use one command command Illuvatar so that it prints a message. And that's it.
