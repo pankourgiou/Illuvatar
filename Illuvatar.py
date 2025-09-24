@@ -15,6 +15,6 @@ def execute_Illuvatar(code):
 
 # Example Usage
 code = """
-Illuvatar "123"
+Illuvatar "Hahaha"
 """
 execute_Illuvatar(code)
